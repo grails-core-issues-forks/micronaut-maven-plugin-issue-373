@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: example.micronaut
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [amazon-api-gateway, annotation-api, app-name, aws-cdk, aws-lambda, aws-lambda-custom-runtime, graalvm, http-client, jackson-databind, java, junit, logback, maven, readme, shade, yaml]
